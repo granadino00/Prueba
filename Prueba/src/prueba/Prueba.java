@@ -6,6 +6,7 @@ public class Prueba {
         System.out.println("Hola mundo");
         System.out.println("hola");
         System.out.println("Segundo dia de trabajo");
+        System.out.println("Hola soy paco el hacker");
     }
     
 }
