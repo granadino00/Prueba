@@ -7,6 +7,7 @@ public class Prueba {
         System.out.println("hola");
         System.out.println("Segundo dia de trabajo");
         System.out.println("Hola soy paco el hacker");
+        System.out.println("Hola soy algo raro");
     }
     
 }
